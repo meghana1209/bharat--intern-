@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:pink;
+    color:black;
+}
+
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:whitesmoke;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+
+h1, h2, h3, h4 {
+    color: grey;
+}
+.flex-container{
+    display: flex;
+    
+}
+
+hr {
+    border: 1px solid #ddd;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+
+
+
+
+/* Style for the header */
+h1 {
+     text-align: center;
+    font-size: 2em;
+    color:grey;
+    margin-bottom: 0.5em;
+}
+
+/* Style for the about me section */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Style for the skills and interests section */
+ul {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+}
+
+/* Style for the projects section */
+.project {
+    margin-bottom: 1.5em;
+}
+
+/* Style for the contact information section */
+h2 {
+    color:palevioletred; 
+}
+
+/* Style for the links */
+a {
+    color:grey; 
+    text-decoration: none;
+}
+
+
